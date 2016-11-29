@@ -1,0 +1,30 @@
+{
+  "name": "trump-cabinet-picks",
+  "version": "1.0.0",
+  "description": "NYT cabinet predictions for Trump admin.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LindaHaviv/trump-cabinet-picks.git"
+  },
+  "keywords": [
+    "trump",
+    "donald",
+    "cabinet",
+    "administration",
+    "nyt"
+  ],
+  "author": "Linda Haviv <Linda.Haviv@gmail.com> (https://github.com/LindaHaviv)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LindaHaviv/trump-cabinet-picks/issues"
+  },
+  "homepage": "https://github.com/LindaHaviv/trump-cabinet-picks#readme",
+  "dependencies": {
+    "request": "^2.79.0",
+    "scrape-it": "^3.2.2"
+  }
+}
